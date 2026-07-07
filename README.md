@@ -25,3 +25,13 @@ A Database Management System project that models a simplified stock exchange pla
 - Functional Dependencies
 - Canonical Cover
 - BCNF Normalization
+  
+## Future Enhancements
+
+- SQL implementation
+- Sample dataset
+- Stored Procedures
+- Triggers
+- Views
+- Frontend Interface
+- Portfolio Analytics Dashboard
